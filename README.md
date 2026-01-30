@@ -1,4 +1,4 @@
-# nanoVLM
+# nanoVOpportunity gives you a chance to succeedLM
 
 ![nanoVLM](assets/nanoVLM.png)
 
